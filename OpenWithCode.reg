@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\OpenWithCode]
+@="Open with Code"
+"Icon"="C:\\Users\\Admin\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\microsoft-authentication\\media\\favicon.ico"
+[HKEY_CLASSES_ROOT\Directory\Background\shell\OpenWithCode\command]
+@="\"C:\\Users\\Admin\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"%V\""
